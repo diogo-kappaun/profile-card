@@ -6,11 +6,11 @@
 ## 💻 Design Desktop:
 <img src="./design/design-desktop.png" alt="Design desktop" height="500px">
 
-## Tecnologias utilizadas
+## 💾 Tecnologias utilizadas:
 - HTML5
 - CSS3
 
-## Como utilizar
+## ❓ Como utilizar:
 
 1 - Clone do projeto
 ```
