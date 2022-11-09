@@ -20,4 +20,3 @@ cd profile-card
 3 - Acesse o VScode
 ```
 code .
-``
