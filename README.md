@@ -1,8 +1,8 @@
 # Projeto Cartão de Perfil
-
-<img src="./design/design-mobile.png" alt="Design mobile" height="600px">
-<img src="./design/design-desktop.png" alt="Design desktop" height="600px">
-
+<div>
+  <img src="./design/design-mobile.png" alt="Design mobile" height="500px">
+  <img src="./design/design-desktop.png" alt="Design desktop" height="500px">
+</div>
 ## Tecnologias utilizadas
 - HTML5
 - CSS3
